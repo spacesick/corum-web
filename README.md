@@ -2,7 +2,9 @@
 
 Corum is a place for people who want to share stories related to Covid-19. Whether you wish to share your experience of contracting Covid-19, experience taking vaccines, or just the impact of the pandemic on your life, Corum is an all-in-one platform where you can discuss in forums, write blog posts, see events, and hand out surveys from the web and the comfort of your smartphone.
 
-The Corum web app is built using Django, Bootstrap, and Tailwind CSS as a part of the final group project for CSGE602022 (Platform-based Programming)
+The Corum web app is built using Django, Bootstrap, and Tailwind CSS as a part of the final group project for CSGE602022 (Platform-based Programming).
+
+See the Corum mobile app [here](https://github.com/spacesick/corum-mobile).
 
 ## Group project members
 
